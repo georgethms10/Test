@@ -1,4 +1,4 @@
-# Test
+# Simply create a onj from image
 Request Creator
 
 SEE THE IMAGE FOR USAGE INSTRUCTIONS 
